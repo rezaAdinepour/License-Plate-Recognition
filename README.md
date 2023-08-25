@@ -16,3 +16,6 @@ Open terminal. Go into the cloned project directory and type the following comma
 $ python3 main.py
 ```
 or run the <code>main.py</code> on your ide.
+
+## Result
+![image]()
