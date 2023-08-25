@@ -11,7 +11,7 @@ $ pip3 install -r requirements.txt
 You should put the used photos in <code>images</code> folder.
 
 ## Working
-Open terminal. Go into the cloned project directory and type the following command for train network:
+Open terminal. Go into the cloned project directory and type the following command:
 ```
 $ python3 main.py
 ```
