@@ -1,2 +1,2 @@
-# Automatic_Number_Plate_Recognition
-Simple Automatic Number Plate Recognition on Image
+# Automatic License Plate Recognition
+I used image processing algorithm for license plate recognition on images.
