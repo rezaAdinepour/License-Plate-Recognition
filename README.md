@@ -9,3 +9,10 @@ $ pip3 install -r requirements.txt
 
 ## Dataset
 You should put the used photos in <code>images</code> folder.
+
+## Working
+Open terminal. Go into the cloned project directory and type the following command for train network:
+```
+$ python3 main.py
+```
+or run the <code>main.py</code> file on your ide.
