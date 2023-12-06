@@ -18,4 +18,4 @@ $ python3 main.py
 or run the <code>main.py</code> on your ide.
 
 ## Result
-![image](Result/Result.gif)
+![image](Result/1.png)
